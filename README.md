@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_logo.svg" alt="Diyanet İşleri Başkanlığı Logosu" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_yeni_logo.svg/1024px-Diyanet_%C4%B0%C5%9Fleri_Ba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_yeni_logo.svg.png" alt="Diyanet İşleri Başkanlığı Logosu" width="150"/>
 </p>
+
 
 <h1 align="center">Diyanet İşleri Başkanlığı - Açık Kaynak Projeleri</h1>
 <p align="center">
